@@ -1,2 +1,0 @@
-# ieee1394 module    match_flags vendor_id model_id specifier_id version
-sbp2                 0x0000000c  0x000000  0x000000 0x00609e     0x010483
