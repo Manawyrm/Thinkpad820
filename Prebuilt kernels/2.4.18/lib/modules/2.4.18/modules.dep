@@ -1,0 +1,284 @@
+/lib/modules/2.4.18/kernel/drivers/block/nbd.o:
+
+/lib/modules/2.4.18/kernel/drivers/char/logibusmouse.o:
+
+/lib/modules/2.4.18/kernel/drivers/char/lp.o:	/lib/modules/2.4.18/kernel/drivers/parport/parport.o
+
+/lib/modules/2.4.18/kernel/drivers/char/msbusmouse.o:
+
+/lib/modules/2.4.18/kernel/drivers/char/ppdev.o:	/lib/modules/2.4.18/kernel/drivers/parport/parport.o
+
+/lib/modules/2.4.18/kernel/drivers/i2c/i2c-algo-bit.o:	/lib/modules/2.4.18/kernel/drivers/i2c/i2c-core.o
+
+/lib/modules/2.4.18/kernel/drivers/i2c/i2c-algo-pcf.o:	/lib/modules/2.4.18/kernel/drivers/i2c/i2c-core.o
+
+/lib/modules/2.4.18/kernel/drivers/i2c/i2c-core.o:
+
+/lib/modules/2.4.18/kernel/drivers/i2c/i2c-dev.o:	/lib/modules/2.4.18/kernel/drivers/i2c/i2c-core.o
+
+/lib/modules/2.4.18/kernel/drivers/i2c/i2c-elektor.o:	/lib/modules/2.4.18/kernel/drivers/i2c/i2c-algo-pcf.o
+
+/lib/modules/2.4.18/kernel/drivers/i2c/i2c-elv.o:	/lib/modules/2.4.18/kernel/drivers/i2c/i2c-algo-bit.o
+
+/lib/modules/2.4.18/kernel/drivers/i2c/i2c-keywest.o:	/lib/modules/2.4.18/kernel/drivers/i2c/i2c-core.o
+
+/lib/modules/2.4.18/kernel/drivers/i2c/i2c-philips-par.o:	/lib/modules/2.4.18/kernel/drivers/parport/parport.o \
+	/lib/modules/2.4.18/kernel/drivers/i2c/i2c-algo-bit.o
+
+/lib/modules/2.4.18/kernel/drivers/i2c/i2c-proc.o:	/lib/modules/2.4.18/kernel/drivers/i2c/i2c-core.o
+
+/lib/modules/2.4.18/kernel/drivers/i2c/i2c-velleman.o:	/lib/modules/2.4.18/kernel/drivers/i2c/i2c-algo-bit.o
+
+/lib/modules/2.4.18/kernel/drivers/ieee1394/ieee1394.o:
+
+/lib/modules/2.4.18/kernel/drivers/ieee1394/ohci1394.o:	/lib/modules/2.4.18/kernel/drivers/ieee1394/ieee1394.o
+
+/lib/modules/2.4.18/kernel/drivers/ieee1394/raw1394.o:	/lib/modules/2.4.18/kernel/drivers/ieee1394/ieee1394.o
+
+/lib/modules/2.4.18/kernel/drivers/ieee1394/sbp2.o:	/lib/modules/2.4.18/kernel/drivers/ieee1394/ieee1394.o
+
+/lib/modules/2.4.18/kernel/drivers/ieee1394/video1394.o:	/lib/modules/2.4.18/kernel/drivers/ieee1394/ieee1394.o \
+	/lib/modules/2.4.18/kernel/drivers/ieee1394/ohci1394.o
+
+/lib/modules/2.4.18/kernel/drivers/md/linear.o:	/lib/modules/2.4.18/kernel/drivers/md/md.o
+
+/lib/modules/2.4.18/kernel/drivers/md/lvm-mod.o:
+
+/lib/modules/2.4.18/kernel/drivers/md/md.o:
+
+/lib/modules/2.4.18/kernel/drivers/md/multipath.o:	/lib/modules/2.4.18/kernel/drivers/md/md.o
+
+/lib/modules/2.4.18/kernel/drivers/md/raid0.o:	/lib/modules/2.4.18/kernel/drivers/md/md.o
+
+/lib/modules/2.4.18/kernel/drivers/md/raid1.o:	/lib/modules/2.4.18/kernel/drivers/md/md.o
+
+/lib/modules/2.4.18/kernel/drivers/md/raid5.o:	/lib/modules/2.4.18/kernel/drivers/md/md.o \
+	/lib/modules/2.4.18/kernel/drivers/md/xor.o
+
+/lib/modules/2.4.18/kernel/drivers/md/xor.o:
+
+/lib/modules/2.4.18/kernel/drivers/net/3c59x.o:
+
+/lib/modules/2.4.18/kernel/drivers/net/8139too.o:	/lib/modules/2.4.18/kernel/drivers/net/mii.o
+
+/lib/modules/2.4.18/kernel/drivers/net/8390.o:
+
+/lib/modules/2.4.18/kernel/drivers/net/bsd_comp.o:
+
+/lib/modules/2.4.18/kernel/drivers/net/de4x5.o:
+
+/lib/modules/2.4.18/kernel/drivers/net/dummy.o:
+
+/lib/modules/2.4.18/kernel/drivers/net/eepro100.o:
+
+/lib/modules/2.4.18/kernel/drivers/net/eql.o:
+
+/lib/modules/2.4.18/kernel/drivers/net/mii.o:
+
+/lib/modules/2.4.18/kernel/drivers/net/pcmcia/3c574_cs.o:	/lib/modules/2.4.18/kernel/drivers/pcmcia/pcmcia_core.o \
+	/lib/modules/2.4.18/kernel/drivers/pcmcia/ds.o
+
+/lib/modules/2.4.18/kernel/drivers/net/pcmcia/3c589_cs.o:	/lib/modules/2.4.18/kernel/drivers/pcmcia/pcmcia_core.o \
+	/lib/modules/2.4.18/kernel/drivers/pcmcia/ds.o
+
+/lib/modules/2.4.18/kernel/drivers/net/pcmcia/axnet_cs.o:	/lib/modules/2.4.18/kernel/drivers/pcmcia/pcmcia_core.o \
+	/lib/modules/2.4.18/kernel/drivers/pcmcia/ds.o
+
+/lib/modules/2.4.18/kernel/drivers/net/pcmcia/fmvj18x_cs.o:	/lib/modules/2.4.18/kernel/drivers/pcmcia/pcmcia_core.o \
+	/lib/modules/2.4.18/kernel/drivers/pcmcia/ds.o
+
+/lib/modules/2.4.18/kernel/drivers/net/pcmcia/nmclan_cs.o:	/lib/modules/2.4.18/kernel/drivers/pcmcia/pcmcia_core.o \
+	/lib/modules/2.4.18/kernel/drivers/pcmcia/ds.o
+
+/lib/modules/2.4.18/kernel/drivers/net/pcmcia/pcnet_cs.o:	/lib/modules/2.4.18/kernel/drivers/net/8390.o \
+	/lib/modules/2.4.18/kernel/drivers/pcmcia/pcmcia_core.o \
+	/lib/modules/2.4.18/kernel/drivers/pcmcia/ds.o
+
+/lib/modules/2.4.18/kernel/drivers/net/pcmcia/smc91c92_cs.o:	/lib/modules/2.4.18/kernel/drivers/pcmcia/pcmcia_core.o \
+	/lib/modules/2.4.18/kernel/drivers/pcmcia/ds.o
+
+/lib/modules/2.4.18/kernel/drivers/net/pcmcia/xirc2ps_cs.o:	/lib/modules/2.4.18/kernel/drivers/pcmcia/pcmcia_core.o \
+	/lib/modules/2.4.18/kernel/drivers/pcmcia/ds.o
+
+/lib/modules/2.4.18/kernel/drivers/net/ppp_deflate.o:
+
+/lib/modules/2.4.18/kernel/drivers/net/ppp_synctty.o:
+
+/lib/modules/2.4.18/kernel/drivers/net/pppoe.o:	/lib/modules/2.4.18/kernel/drivers/net/pppox.o
+
+/lib/modules/2.4.18/kernel/drivers/net/pppox.o:
+
+/lib/modules/2.4.18/kernel/drivers/net/tlan.o:
+
+/lib/modules/2.4.18/kernel/drivers/net/tulip/tulip.o:
+
+/lib/modules/2.4.18/kernel/drivers/net/wireless/airo.o:
+
+/lib/modules/2.4.18/kernel/drivers/net/wireless/airo_cs.o:	/lib/modules/2.4.18/kernel/drivers/net/wireless/airo.o \
+	/lib/modules/2.4.18/kernel/drivers/pcmcia/pcmcia_core.o \
+	/lib/modules/2.4.18/kernel/drivers/pcmcia/ds.o
+
+/lib/modules/2.4.18/kernel/drivers/net/wireless/airport.o:	/lib/modules/2.4.18/kernel/drivers/net/wireless/orinoco.o \
+	/lib/modules/2.4.18/kernel/drivers/net/wireless/hermes.o
+
+/lib/modules/2.4.18/kernel/drivers/net/wireless/hermes.o:
+
+/lib/modules/2.4.18/kernel/drivers/net/wireless/orinoco.o:	/lib/modules/2.4.18/kernel/drivers/net/wireless/hermes.o
+
+/lib/modules/2.4.18/kernel/drivers/net/wireless/orinoco_cs.o:	/lib/modules/2.4.18/kernel/drivers/net/wireless/orinoco.o \
+	/lib/modules/2.4.18/kernel/drivers/net/wireless/hermes.o \
+	/lib/modules/2.4.18/kernel/drivers/pcmcia/pcmcia_core.o \
+	/lib/modules/2.4.18/kernel/drivers/pcmcia/ds.o
+
+/lib/modules/2.4.18/kernel/drivers/parport/parport.o:
+
+/lib/modules/2.4.18/kernel/drivers/parport/parport_pc.o:	/lib/modules/2.4.18/kernel/drivers/parport/parport.o
+
+/lib/modules/2.4.18/kernel/drivers/pcmcia/ds.o:	/lib/modules/2.4.18/kernel/drivers/pcmcia/pcmcia_core.o
+
+/lib/modules/2.4.18/kernel/drivers/pcmcia/i82092.o:	/lib/modules/2.4.18/kernel/drivers/pcmcia/pcmcia_core.o
+
+/lib/modules/2.4.18/kernel/drivers/pcmcia/i82365.o:	/lib/modules/2.4.18/kernel/drivers/pcmcia/pcmcia_core.o
+
+/lib/modules/2.4.18/kernel/drivers/pcmcia/pcmcia_core.o:
+
+/lib/modules/2.4.18/kernel/drivers/pcmcia/tcic.o:	/lib/modules/2.4.18/kernel/drivers/pcmcia/pcmcia_core.o
+
+/lib/modules/2.4.18/kernel/drivers/sound/ad1848.o:	/lib/modules/2.4.18/kernel/drivers/sound/sound.o
+
+/lib/modules/2.4.18/kernel/drivers/sound/cs4232.o:	/lib/modules/2.4.18/kernel/drivers/sound/ad1848.o \
+	/lib/modules/2.4.18/kernel/drivers/sound/uart401.o \
+	/lib/modules/2.4.18/kernel/drivers/sound/sound.o
+
+/lib/modules/2.4.18/kernel/drivers/sound/dmasound/dmasound_core.o:	/lib/modules/2.4.18/kernel/drivers/sound/soundcore.o
+
+/lib/modules/2.4.18/kernel/drivers/sound/dmasound/dmasound_pmac.o:	/lib/modules/2.4.18/kernel/drivers/i2c/i2c-core.o \
+	/lib/modules/2.4.18/kernel/drivers/sound/dmasound/dmasound_core.o
+
+/lib/modules/2.4.18/kernel/drivers/sound/sound.o:	/lib/modules/2.4.18/kernel/drivers/sound/soundcore.o
+
+/lib/modules/2.4.18/kernel/drivers/sound/soundcore.o:
+
+/lib/modules/2.4.18/kernel/drivers/sound/uart401.o:	/lib/modules/2.4.18/kernel/drivers/sound/sound.o
+
+/lib/modules/2.4.18/kernel/drivers/video/fbcon-cfb16.o:
+
+/lib/modules/2.4.18/kernel/drivers/video/fbcon-cfb2.o:
+
+/lib/modules/2.4.18/kernel/drivers/video/fbcon-cfb24.o:
+
+/lib/modules/2.4.18/kernel/drivers/video/fbcon-cfb32.o:
+
+/lib/modules/2.4.18/kernel/drivers/video/fbcon-cfb4.o:
+
+/lib/modules/2.4.18/kernel/drivers/video/fbcon-mac.o:
+
+/lib/modules/2.4.18/kernel/drivers/video/fbcon-mfb.o:
+
+/lib/modules/2.4.18/kernel/drivers/video/vfb.o:	/lib/modules/2.4.18/kernel/drivers/video/fbcon-cfb4.o \
+	/lib/modules/2.4.18/kernel/drivers/video/fbcon-cfb16.o \
+	/lib/modules/2.4.18/kernel/drivers/video/fbcon-cfb32.o \
+	/lib/modules/2.4.18/kernel/drivers/video/fbcon-cfb2.o \
+	/lib/modules/2.4.18/kernel/drivers/video/fbcon-mfb.o \
+	/lib/modules/2.4.18/kernel/drivers/video/fbcon-cfb24.o
+
+/lib/modules/2.4.18/kernel/fs/binfmt_misc.o:
+
+/lib/modules/2.4.18/kernel/fs/fat/fat.o:
+
+/lib/modules/2.4.18/kernel/fs/minix/minix.o:
+
+/lib/modules/2.4.18/kernel/fs/msdos/msdos.o:	/lib/modules/2.4.18/kernel/fs/fat/fat.o
+
+/lib/modules/2.4.18/kernel/fs/nls/nls_cp437.o:
+
+/lib/modules/2.4.18/kernel/fs/nls/nls_cp850.o:
+
+/lib/modules/2.4.18/kernel/fs/nls/nls_iso8859-1.o:
+
+/lib/modules/2.4.18/kernel/fs/nls/nls_iso8859-15.o:
+
+/lib/modules/2.4.18/kernel/fs/udf/udf.o:
+
+/lib/modules/2.4.18/kernel/fs/vfat/vfat.o:	/lib/modules/2.4.18/kernel/fs/fat/fat.o
+
+/lib/modules/2.4.18/kernel/net/8021q/8021q.o:
+
+/lib/modules/2.4.18/kernel/net/ipv4/ip_gre.o:
+
+/lib/modules/2.4.18/kernel/net/ipv4/ipip.o:
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_conntrack.o:
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_conntrack_ftp.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_conntrack.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_conntrack_irc.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_conntrack.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_nat_ftp.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/iptable_nat.o \
+	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_conntrack.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_nat_irc.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/iptable_nat.o \
+	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_conntrack.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_nat_snmp_basic.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/iptable_nat.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o:
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_LOG.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_MARK.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_MASQUERADE.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_conntrack.o \
+	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o \
+	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/iptable_nat.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_MIRROR.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_REDIRECT.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_conntrack.o \
+	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o \
+	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/iptable_nat.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_REJECT.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_TCPMSS.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_TOS.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_ULOG.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_ah.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_esp.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_length.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_limit.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_mac.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_mark.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_multiport.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_owner.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_state.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_conntrack.o \
+	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_tcpmss.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_tos.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_ttl.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ipt_unclean.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/iptable_filter.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/iptable_mangle.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/ipv4/netfilter/iptable_nat.o:	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_conntrack.o \
+	/lib/modules/2.4.18/kernel/net/ipv4/netfilter/ip_tables.o
+
+/lib/modules/2.4.18/kernel/net/khttpd/khttpd.o:
+
