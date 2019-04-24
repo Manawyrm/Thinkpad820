@@ -1,0 +1,11 @@
+Disk disk_debian_woody_linux_2.4.18_working.img: 2 GiB, 2164083200 bytes, 4226725 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x7d4059ae
+
+Device                                      Boot  Start     End Sectors  Size Id Type
+disk_debian_woody_linux_2.4.18_working.img1 *        62    9423    9362  4.6M 41 PPC PReP Boot
+disk_debian_woody_linux_2.4.18_working.img2        9424  193191  183768 89.7M 82 Linux swap / Solaris
+disk_debian_woody_linux_2.4.18_working.img3      193192 2374847 2181656    1G 83 Linux
